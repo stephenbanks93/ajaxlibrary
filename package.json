@@ -1,0 +1,19 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "\"# ajaxlibrary\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenbanks93/ajaxlibrary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenbanks93/ajaxlibrary/issues"
+  },
+  "homepage": "https://github.com/stephenbanks93/ajaxlibrary#readme"
+}
